@@ -1,4 +1,4 @@
-# Git Lab Assignment
+## Collaboration Update
 
-This project demonstrates Git basics, branching, and workflows
-for the CSE3253 course.
+This change was made from a cloned repository
+to simulate collaborative work.
